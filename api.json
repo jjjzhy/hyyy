@@ -10,6 +10,14 @@
 			"indexs": 1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
+        {"jar":"./yu/0924.jar",
+        "key":"csp_Market",
+        "name":"🗂洪宇┃文件夹",
+        "type":3,"api":"csp_Market",
+        "searchable":0,
+        "changeable":0,
+        "ext":"./yu/0924.json"},
+        
 		{
 			"key": "AList",
 			"name": "🥫洪宇丨Alist",
@@ -1546,15 +1554,15 @@
 	],
 	"lives": [
 		{
-			"name": "🥫洪宇丨cluntop",
+			"name": "🥫洪宇丨本目录lPTV",
 			"type": 0,
 			"url": "./lib/iptv.m3u",
 			"ua": "okhttp/4.1.0"
 		},
 		{
-			"name": "🥫洪宇丨Mursor",
+			"name": "🥫洪宇丨mut8",
 			"type": "0",
-			"url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/Mursor/LIVE/main/iptv.m3u",
+			"url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u",
 			"playerType": 2,
 			"timeout": 10,
 			"ua": "okHttp/Mod-1.4.0.0"
